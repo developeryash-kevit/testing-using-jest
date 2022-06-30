@@ -1,0 +1,15 @@
+{
+    "name": "jest-code",
+    "version": "1.0.0",
+    "description": "",
+    "main": "sum.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "developer-yash",
+    "license": "ISC",
+    "dependencies": {
+        "jest": "^28.1.2"
+    }
+}
